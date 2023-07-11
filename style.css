@@ -1,0 +1,113 @@
+#board-size{
+    width: 50px;
+  }
+  #container-info-bar{
+    display: flex;
+    margin-top: 10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+  }
+  #box-info{
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 800px;
+    margin: 5px;
+    text-align: left;
+    background-color: #2fc18c;
+    padding: 10px 10px 10px 10px;
+    columns: white;
+  }
+  #button{
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 240px;
+    margin-top: 0.5%;
+    margin-bottom: 1%;
+    text-align: center;
+    background-color: #2fc18c;
+    color: white;
+  }
+  .color{
+    border: 1px solid black;
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+  }
+  .model{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+  }
+  #container-button{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .perfomace-palette{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1%;
+  }
+  .pixel{
+    border: 1px solid black;
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background: black;
+  }
+  .selected{
+    border: 1px solid black;
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background: black;
+  }
+  .black{
+    border: 1px solid black;
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background: black;
+  }.blue{
+    border: 1px solid black;
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background: blue;
+  }
+  .yellow{
+    border: 1px solid black;
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background: yellow;
+  }
+  .green{
+    border: 1px solid black;
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background: green;
+  }
+  .white{
+    border: 1px solid black;
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background: white;
+  }
+  h1{
+    text-align: center;
+  }
+  body{
+    text-align: center;
+  }
+  
